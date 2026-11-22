@@ -1,0 +1,6 @@
+# No third-party runtime dependencies are required --
+# hashcracker uses only the Python standard library (hashlib, hmac,
+# itertools, multiprocessing, argparse).
+#
+# These are only needed for running the test suite / development:
+pytest>=7.4
